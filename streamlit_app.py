@@ -149,7 +149,7 @@ def measure_euclidean(p1,p2):
 
 
 def main():
-    st.title("Mearements in mm")
+    st.title("Measurements in mm")
     
     uploaded_file = st.file_uploader("Upload a video file", type=["mp4", "avi", "mov", "mkv"])
     
